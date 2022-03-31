@@ -7,10 +7,26 @@ body {
     top: 0;
 }
 
+
+
+#footer {
+    background-color: whitesmoke;
+    color: bisque;
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    position:fixed;
+    width: 100%;
+    bottom:0;
+}
+ 
+.card {
+
+}
+
 .card-body {
     
 }
-
 
 
 
