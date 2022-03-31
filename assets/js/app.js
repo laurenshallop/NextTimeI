@@ -1,7 +1,5 @@
-// variables
+// Activecard keeps track of note in the 
 
+// Delete a Card
 
-// functions
-
-
-// add event listeners
+// gets note and renders them to the card
