@@ -1,0 +1,21 @@
+body {
+    background-color: bisque;
+}
+
+.navbar {
+    position: sticky;
+    top: 0;
+}
+
+.card-body {
+    
+}
+
+
+
+
+
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+    }
