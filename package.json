@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/laurenshallop/NextTimeI/issues"
   },
-  "homepage": "https://github.com/laurenshallop/NextTimeI#readme"
+  "homepage": "https://github.com/laurenshallop/NextTimeI#readme",
+  "dependencies": {
+    "express-handlebars": "^6.0.3"
+  }
 }
