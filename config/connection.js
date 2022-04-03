@@ -1,3 +1,4 @@
+
 // import the Sequelize constructor from the library
 const Sequelize = require('sequelize');
 
@@ -7,5 +8,6 @@ const sequelize = new Sequelize(process.env.DB_NAME, process.env.DB_USERNAME, pr
   dialect: 'mysql',
   port: 3306
 });
+
 
 module.exports = sequelize;
